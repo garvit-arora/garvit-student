@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @garvit-student
-- 👀 I’m interested in C++ and real-world projects
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on web dev
+- 👀 I’m interested in Real world Projects
+- 🌱 I’m currently learning Web Dev
+- 💞️ I’m looking to collaborate on my agency
 - 📫 How to reach me - mail me at garvit.arora@myyahoo.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Genius by Birth, Coder by Choice.
